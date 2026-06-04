@@ -1,2 +1,2 @@
 # Sparkles Whatsapp Bot
-***Coming soon***
+***Suspended***
